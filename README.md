@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Arunkumar Ponnampala Saravanan
+## 🚀 DevOps Consultant | Cloud Infrastructure Specialist
 
-<!--
-**arunsaravana/arunsaravana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about building scalable, efficient, and automated cloud solutions. With expertise in AWS, Azure, Terraform, Kubernetes, and CI/CD pipelines.
 
-Here are some ideas to get you started:
+# 🌟 Key Skills:
+Infrastructure as Code (IaC): Terraform, CloudFormation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud Platforms: AWS, Azure
+
+Container Orchestration: Kubernetes, Docker, Helm
+
+CI/CD Pipelines: GitLab CI, GitHub Actions, Jenkins
+
+Monitoring & Logging: Prometheus, Grafana, ELK
+
+Security & Compliance: IAM, AWS Security Best Practices
+
+Scripting & Automation: Bash, Python
+
+📫 Let's Connect:
+LinkedIn: [Arunkumar Saravanan](https://www.linkedin.com/in/arunsaravana/)
+
+💬 Open to discussions on DevOps best practices, cloud strategies, and automation techniques. Let’s collaborate and innovate! 🚀
+

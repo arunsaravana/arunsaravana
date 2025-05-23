@@ -10,7 +10,7 @@ Infrastructure as Code (IaC): Terraform
 
 Container Orchestration: Kubernetes, Docker, Helm
 
-CI/CD Pipelines: GitLab CI, GitHub Actions, Jenkins, Azure DevOps
+CI/CD Pipelines: GitLab CI, GitHub Actions, Jenkins, Azure DevOps, XL Release, Octopus Deploy, ArgoCD and Spinnaker
 
 Monitoring & Logging: Prometheus, Grafana, ELK
 
